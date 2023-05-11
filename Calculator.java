@@ -7,6 +7,11 @@ public class Calculator {
 	    int suma ;
 	    suma = a+b;
 	    return suma;
+
+    public static int div(int a ,int b ){
+	    int div ;
+	    div = a/b;
+	    return div;
     }
 
     public static int sub(int a, int b) {
